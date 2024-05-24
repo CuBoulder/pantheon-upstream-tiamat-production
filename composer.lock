@@ -4,7 +4,7 @@
         "Read more about it at https://getcomposer.org/doc/01-basic-usage.md#installing-dependencies",
         "This file is @generated automatically"
     ],
-    "content-hash": "d00db4059b8c275d8ec2e9cd5b72c9aa",
+    "content-hash": "1fecec82b0ef6baa92a4981280da67a4",
     "packages": [
         {
             "name": "asm89/stack-cors",
@@ -885,12 +885,12 @@
             "source": {
                 "type": "git",
                 "url": "https://github.com/CuBoulder/tiamat-theme.git",
-                "reference": "24bc371735f15e07f17b7b5e6843be0a74720e3e"
+                "reference": "b3b70f1b2e07160577491a3154253abc4f2428bb"
             },
             "dist": {
                 "type": "zip",
-                "url": "https://api.github.com/repos/CuBoulder/tiamat-theme/zipball/24bc371735f15e07f17b7b5e6843be0a74720e3e",
-                "reference": "24bc371735f15e07f17b7b5e6843be0a74720e3e",
+                "url": "https://api.github.com/repos/CuBoulder/tiamat-theme/zipball/b3b70f1b2e07160577491a3154253abc4f2428bb",
+                "reference": "b3b70f1b2e07160577491a3154253abc4f2428bb",
                 "shasum": ""
             },
             "default-branch": true,
@@ -904,7 +904,7 @@
                 "issues": "https://github.com/CuBoulder/tiamat-theme/issues",
                 "source": "https://github.com/CuBoulder/tiamat-theme/tree/main"
             },
-            "time": "2024-05-20T17:37:14+00:00"
+            "time": "2024-05-23T23:02:02+00:00"
         },
         {
             "name": "cu-boulder/boulder_profile",
@@ -939,12 +939,12 @@
             "source": {
                 "type": "git",
                 "url": "https://github.com/CuBoulder/express_admin.git",
-                "reference": "5053ac1ad28317f533227e01b6c8a4f58c90b782"
+                "reference": "7c403734852338841ba786d8d2778b1f7063145a"
             },
             "dist": {
                 "type": "zip",
-                "url": "https://api.github.com/repos/CuBoulder/express_admin/zipball/5053ac1ad28317f533227e01b6c8a4f58c90b782",
-                "reference": "5053ac1ad28317f533227e01b6c8a4f58c90b782",
+                "url": "https://api.github.com/repos/CuBoulder/express_admin/zipball/7c403734852338841ba786d8d2778b1f7063145a",
+                "reference": "7c403734852338841ba786d8d2778b1f7063145a",
                 "shasum": ""
             },
             "default-branch": true,
@@ -958,7 +958,7 @@
                 "issues": "https://github.com/CuBoulder/express_admin/issues",
                 "source": "https://github.com/CuBoulder/express_admin/tree/main"
             },
-            "time": "2024-03-08T16:36:27+00:00"
+            "time": "2024-05-22T16:17:57+00:00"
         },
         {
             "name": "cu-boulder/ucb_admin_menus",
@@ -966,12 +966,12 @@
             "source": {
                 "type": "git",
                 "url": "https://github.com/CuBoulder/ucb_admin_menus.git",
-                "reference": "51d540d0e3d85f65a0b3acfca9bcf7410a7ac92e"
+                "reference": "fb749536a639e4fb2d291c2641e5964feebfab34"
             },
             "dist": {
                 "type": "zip",
-                "url": "https://api.github.com/repos/CuBoulder/ucb_admin_menus/zipball/51d540d0e3d85f65a0b3acfca9bcf7410a7ac92e",
-                "reference": "51d540d0e3d85f65a0b3acfca9bcf7410a7ac92e",
+                "url": "https://api.github.com/repos/CuBoulder/ucb_admin_menus/zipball/fb749536a639e4fb2d291c2641e5964feebfab34",
+                "reference": "fb749536a639e4fb2d291c2641e5964feebfab34",
                 "shasum": ""
             },
             "default-branch": true,
@@ -985,7 +985,7 @@
                 "issues": "https://github.com/CuBoulder/ucb_admin_menus/issues",
                 "source": "https://github.com/CuBoulder/ucb_admin_menus/tree/main"
             },
-            "time": "2024-03-18T17:39:16+00:00"
+            "time": "2024-05-22T15:45:26+00:00"
         },
         {
             "name": "cu-boulder/ucb_article_author",
@@ -1101,12 +1101,12 @@
             "source": {
                 "type": "git",
                 "url": "https://github.com/CuBoulder/tiamat-custom-entities.git",
-                "reference": "b0c7ee48a9996b6c6fd80a2a4908f8ed0469ccec"
+                "reference": "4f2827512ced9e3f1f695414769f720fca324755"
             },
             "dist": {
                 "type": "zip",
-                "url": "https://api.github.com/repos/CuBoulder/tiamat-custom-entities/zipball/b0c7ee48a9996b6c6fd80a2a4908f8ed0469ccec",
-                "reference": "b0c7ee48a9996b6c6fd80a2a4908f8ed0469ccec",
+                "url": "https://api.github.com/repos/CuBoulder/tiamat-custom-entities/zipball/4f2827512ced9e3f1f695414769f720fca324755",
+                "reference": "4f2827512ced9e3f1f695414769f720fca324755",
                 "shasum": ""
             },
             "default-branch": true,
@@ -1120,7 +1120,7 @@
                 "issues": "https://github.com/CuBoulder/tiamat-custom-entities/issues",
                 "source": "https://github.com/CuBoulder/tiamat-custom-entities/tree/main"
             },
-            "time": "2024-05-20T17:37:25+00:00"
+            "time": "2024-05-22T16:10:16+00:00"
         },
         {
             "name": "cu-boulder/ucb_default_content",
@@ -1650,16 +1650,16 @@
         },
         {
             "name": "doctrine/event-manager",
-            "version": "2.0.0",
+            "version": "2.0.1",
             "source": {
                 "type": "git",
                 "url": "https://github.com/doctrine/event-manager.git",
-                "reference": "750671534e0241a7c50ea5b43f67e23eb5c96f32"
+                "reference": "b680156fa328f1dfd874fd48c7026c41570b9c6e"
             },
             "dist": {
                 "type": "zip",
-                "url": "https://api.github.com/repos/doctrine/event-manager/zipball/750671534e0241a7c50ea5b43f67e23eb5c96f32",
-                "reference": "750671534e0241a7c50ea5b43f67e23eb5c96f32",
+                "url": "https://api.github.com/repos/doctrine/event-manager/zipball/b680156fa328f1dfd874fd48c7026c41570b9c6e",
+                "reference": "b680156fa328f1dfd874fd48c7026c41570b9c6e",
                 "shasum": ""
             },
             "require": {
@@ -1669,10 +1669,10 @@
                 "doctrine/common": "<2.9"
             },
             "require-dev": {
-                "doctrine/coding-standard": "^10",
+                "doctrine/coding-standard": "^12",
                 "phpstan/phpstan": "^1.8.8",
-                "phpunit/phpunit": "^9.5",
-                "vimeo/psalm": "^4.28"
+                "phpunit/phpunit": "^10.5",
+                "vimeo/psalm": "^5.24"
             },
             "type": "library",
             "autoload": {
@@ -1721,7 +1721,7 @@
             ],
             "support": {
                 "issues": "https://github.com/doctrine/event-manager/issues",
-                "source": "https://github.com/doctrine/event-manager/tree/2.0.0"
+                "source": "https://github.com/doctrine/event-manager/tree/2.0.1"
             },
             "funding": [
                 {
@@ -1737,7 +1737,7 @@
                     "type": "tidelift"
                 }
             ],
-            "time": "2022-10-12T20:59:15+00:00"
+            "time": "2024-05-22T20:47:39+00:00"
         },
         {
             "name": "doctrine/lexer",
@@ -2260,7 +2260,7 @@
             "source": {
                 "type": "git",
                 "url": "https://git.drupalcode.org/project/ckeditor5_icons.git",
-                "reference": "63551866a756e285cae6925ec1078c3f12bea29c"
+                "reference": "05bd5274897b019b3753caec6d2f637b6ed02e0a"
             },
             "require": {
                 "drupal/core": "^9.5 || ^10 || ^11"
@@ -2271,8 +2271,8 @@
                     "dev-1.x": "1.x-dev"
                 },
                 "drupal": {
-                    "version": "1.0.0+1-dev",
-                    "datestamp": "1713547077",
+                    "version": "1.0.0+2-dev",
+                    "datestamp": "1716482442",
                     "security-coverage": {
                         "status": "not-covered",
                         "message": "Dev releases are not covered by Drupal security advisories."
@@ -3626,17 +3626,17 @@
         },
         {
             "name": "drupal/google_tag",
-            "version": "2.0.4",
+            "version": "2.0.5",
             "source": {
                 "type": "git",
                 "url": "https://git.drupalcode.org/project/google_tag.git",
-                "reference": "2.0.4"
+                "reference": "2.0.5"
             },
             "dist": {
                 "type": "zip",
-                "url": "https://ftp.drupal.org/files/projects/google_tag-2.0.4.zip",
-                "reference": "2.0.4",
-                "shasum": "a56bcdb566bf1af54dc0c8871eb720ba54f1392e"
+                "url": "https://ftp.drupal.org/files/projects/google_tag-2.0.5.zip",
+                "reference": "2.0.5",
+                "shasum": "75f5cbdf8ea8c78178a5dfab50cf7ee7777c6491"
             },
             "require": {
                 "drupal/core": "^9.5 || ^10",
@@ -3654,8 +3654,8 @@
             "type": "drupal-module",
             "extra": {
                 "drupal": {
-                    "version": "2.0.4",
-                    "datestamp": "1709073204",
+                    "version": "2.0.5",
+                    "datestamp": "1716308134",
                     "security-coverage": {
                         "status": "covered",
                         "message": "Covered by Drupal's security advisory policy"
@@ -6250,12 +6250,12 @@
             "version": "v5.2.13",
             "source": {
                 "type": "git",
-                "url": "https://github.com/justinrainbow/json-schema.git",
+                "url": "https://github.com/jsonrainbow/json-schema.git",
                 "reference": "fbbe7e5d79f618997bc3332a6f49246036c45793"
             },
             "dist": {
                 "type": "zip",
-                "url": "https://api.github.com/repos/justinrainbow/json-schema/zipball/fbbe7e5d79f618997bc3332a6f49246036c45793",
+                "url": "https://api.github.com/repos/jsonrainbow/json-schema/zipball/fbbe7e5d79f618997bc3332a6f49246036c45793",
                 "reference": "fbbe7e5d79f618997bc3332a6f49246036c45793",
                 "shasum": ""
             },
@@ -6310,8 +6310,8 @@
                 "schema"
             ],
             "support": {
-                "issues": "https://github.com/justinrainbow/json-schema/issues",
-                "source": "https://github.com/justinrainbow/json-schema/tree/v5.2.13"
+                "issues": "https://github.com/jsonrainbow/json-schema/issues",
+                "source": "https://github.com/jsonrainbow/json-schema/tree/v5.2.13"
             },
             "time": "2023-09-26T02:20:38+00:00"
         },
@@ -7124,11 +7124,11 @@
         },
         {
             "name": "pantheon-upstreams/upstream-configuration",
-            "version": "dev-main",
+            "version": "dev-master",
             "dist": {
                 "type": "path",
                 "url": "upstream-configuration/locked",
-                "reference": "2c870ad52129bd3cef3574051ee2b7e1f78b7797"
+                "reference": "02b5536b4e8fda2e51f25d472135bff82a017b30"
             },
             "require": {
                 "asm89/stack-cors": "v2.2.0",
@@ -7166,7 +7166,7 @@
                 "doctrine/annotations": "1.14.3",
                 "doctrine/common": "3.4.4",
                 "doctrine/deprecations": "1.1.3",
-                "doctrine/event-manager": "2.0.0",
+                "doctrine/event-manager": "2.0.1",
                 "doctrine/lexer": "2.1.1",
                 "doctrine/persistence": "3.3.2",
                 "drupal/admin_toolbar": "3.4.2",
@@ -7195,7 +7195,7 @@
                 "drupal/field_group": "3.4.0",
                 "drupal/focal_point": "2.1.0",
                 "drupal/google_cse": "4.0.0",
-                "drupal/google_tag": "2.0.4",
+                "drupal/google_tag": "2.0.5",
                 "drupal/jsonapi_extras": "3.24.0",
                 "drupal/layout_builder_iframe_modal": "1.3.0",
                 "drupal/linkit": "6.1.4",
@@ -7274,7 +7274,7 @@
                 "ralouphie/getallheaders": "3.0.3",
                 "robrichards/xmlseclibs": "3.1.1",
                 "sebastian/diff": "4.0.6",
-                "simplesamlphp/assert": "v1.1.7",
+                "simplesamlphp/assert": "v1.1.8",
                 "simplesamlphp/composer-module-installer": "v1.3.4",
                 "simplesamlphp/saml2": "v4.6.12",
                 "simplesamlphp/simplesamlphp": "v2.2.2",
@@ -8400,16 +8400,16 @@
         },
         {
             "name": "simplesamlphp/assert",
-            "version": "v1.1.7",
+            "version": "v1.1.8",
             "source": {
                 "type": "git",
                 "url": "https://github.com/simplesamlphp/assert.git",
-                "reference": "c03e67bacb298aae58de4535491b4aec9246611e"
+                "reference": "0a5ffa660849db748872bbf017569b4365a39fac"
             },
             "dist": {
                 "type": "zip",
-                "url": "https://api.github.com/repos/simplesamlphp/assert/zipball/c03e67bacb298aae58de4535491b4aec9246611e",
-                "reference": "c03e67bacb298aae58de4535491b4aec9246611e",
+                "url": "https://api.github.com/repos/simplesamlphp/assert/zipball/0a5ffa660849db748872bbf017569b4365a39fac",
+                "reference": "0a5ffa660849db748872bbf017569b4365a39fac",
                 "shasum": ""
             },
             "require": {
@@ -8451,9 +8451,9 @@
             "description": "A wrapper around webmozart/assert to make it useful beyond checking method arguments",
             "support": {
                 "issues": "https://github.com/simplesamlphp/assert/issues",
-                "source": "https://github.com/simplesamlphp/assert/tree/v1.1.7"
+                "source": "https://github.com/simplesamlphp/assert/tree/v1.1.8"
             },
-            "time": "2024-05-09T16:03:57+00:00"
+            "time": "2024-05-21T10:35:09+00:00"
         },
         {
             "name": "simplesamlphp/composer-module-installer",
@@ -14578,16 +14578,16 @@
         },
         {
             "name": "phpdocumentor/reflection-docblock",
-            "version": "5.4.0",
+            "version": "5.4.1",
             "source": {
                 "type": "git",
                 "url": "https://github.com/phpDocumentor/ReflectionDocBlock.git",
-                "reference": "298d2febfe79d03fe714eb871d5538da55205b1a"
+                "reference": "9d07b3f7fdcf5efec5d1609cba3c19c5ea2bdc9c"
             },
             "dist": {
                 "type": "zip",
-                "url": "https://api.github.com/repos/phpDocumentor/ReflectionDocBlock/zipball/298d2febfe79d03fe714eb871d5538da55205b1a",
-                "reference": "298d2febfe79d03fe714eb871d5538da55205b1a",
+                "url": "https://api.github.com/repos/phpDocumentor/ReflectionDocBlock/zipball/9d07b3f7fdcf5efec5d1609cba3c19c5ea2bdc9c",
+                "reference": "9d07b3f7fdcf5efec5d1609cba3c19c5ea2bdc9c",
                 "shasum": ""
             },
             "require": {
@@ -14636,9 +14636,9 @@
             "description": "With this component, a library can provide support for annotations via DocBlocks or otherwise retrieve information that is embedded in a DocBlock.",
             "support": {
                 "issues": "https://github.com/phpDocumentor/ReflectionDocBlock/issues",
-                "source": "https://github.com/phpDocumentor/ReflectionDocBlock/tree/5.4.0"
+                "source": "https://github.com/phpDocumentor/ReflectionDocBlock/tree/5.4.1"
             },
-            "time": "2024-04-09T21:13:58+00:00"
+            "time": "2024-05-21T05:55:05+00:00"
         },
         {
             "name": "phpdocumentor/type-resolver",
@@ -14912,16 +14912,16 @@
         },
         {
             "name": "phpstan/phpstan",
-            "version": "1.11.1",
+            "version": "1.11.2",
             "source": {
                 "type": "git",
                 "url": "https://github.com/phpstan/phpstan.git",
-                "reference": "e524358f930e41a2b4cca1320e3b04fc26b39e0b"
+                "reference": "0d5d4294a70deb7547db655c47685d680e39cfec"
             },
             "dist": {
                 "type": "zip",
-                "url": "https://api.github.com/repos/phpstan/phpstan/zipball/e524358f930e41a2b4cca1320e3b04fc26b39e0b",
-                "reference": "e524358f930e41a2b4cca1320e3b04fc26b39e0b",
+                "url": "https://api.github.com/repos/phpstan/phpstan/zipball/0d5d4294a70deb7547db655c47685d680e39cfec",
+                "reference": "0d5d4294a70deb7547db655c47685d680e39cfec",
                 "shasum": ""
             },
             "require": {
@@ -14966,7 +14966,7 @@
                     "type": "github"
                 }
             ],
-            "time": "2024-05-15T08:00:59+00:00"
+            "time": "2024-05-24T13:23:04+00:00"
         },
         {
             "name": "phpstan/phpstan-deprecation-rules",
@@ -15491,16 +15491,16 @@
         },
         {
             "name": "react/promise",
-            "version": "v3.1.0",
+            "version": "v3.2.0",
             "source": {
                 "type": "git",
                 "url": "https://github.com/reactphp/promise.git",
-                "reference": "e563d55d1641de1dea9f5e84f3cccc66d2bfe02c"
+                "reference": "8a164643313c71354582dc850b42b33fa12a4b63"
             },
             "dist": {
                 "type": "zip",
-                "url": "https://api.github.com/repos/reactphp/promise/zipball/e563d55d1641de1dea9f5e84f3cccc66d2bfe02c",
-                "reference": "e563d55d1641de1dea9f5e84f3cccc66d2bfe02c",
+                "url": "https://api.github.com/repos/reactphp/promise/zipball/8a164643313c71354582dc850b42b33fa12a4b63",
+                "reference": "8a164643313c71354582dc850b42b33fa12a4b63",
                 "shasum": ""
             },
             "require": {
@@ -15552,7 +15552,7 @@
             ],
             "support": {
                 "issues": "https://github.com/reactphp/promise/issues",
-                "source": "https://github.com/reactphp/promise/tree/v3.1.0"
+                "source": "https://github.com/reactphp/promise/tree/v3.2.0"
             },
             "funding": [
                 {
@@ -15560,7 +15560,7 @@
                     "type": "open_collective"
                 }
             ],
-            "time": "2023-11-16T16:21:57+00:00"
+            "time": "2024-05-24T10:39:05+00:00"
         },
         {
             "name": "sebastian/cli-parser",
@@ -16757,16 +16757,16 @@
         },
         {
             "name": "squizlabs/php_codesniffer",
-            "version": "3.10.0",
+            "version": "3.10.1",
             "source": {
                 "type": "git",
                 "url": "https://github.com/PHPCSStandards/PHP_CodeSniffer.git",
-                "reference": "57e09801c2fbae2d257b8b75bebb3deeb7e9deb2"
+                "reference": "8f90f7a53ce271935282967f53d0894f8f1ff877"
             },
             "dist": {
                 "type": "zip",
-                "url": "https://api.github.com/repos/PHPCSStandards/PHP_CodeSniffer/zipball/57e09801c2fbae2d257b8b75bebb3deeb7e9deb2",
-                "reference": "57e09801c2fbae2d257b8b75bebb3deeb7e9deb2",
+                "url": "https://api.github.com/repos/PHPCSStandards/PHP_CodeSniffer/zipball/8f90f7a53ce271935282967f53d0894f8f1ff877",
+                "reference": "8f90f7a53ce271935282967f53d0894f8f1ff877",
                 "shasum": ""
             },
             "require": {
@@ -16833,7 +16833,7 @@
                     "type": "open_collective"
                 }
             ],
-            "time": "2024-05-20T08:11:32+00:00"
+            "time": "2024-05-22T21:24:41+00:00"
         },
         {
             "name": "symfony/browser-kit",
