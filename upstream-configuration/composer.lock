@@ -4,7 +4,7 @@
         "Read more about it at https://getcomposer.org/doc/01-basic-usage.md#installing-dependencies",
         "This file is @generated automatically"
     ],
-    "content-hash": "f2bad609be6bfdd80c4f04c07cd7183d",
+    "content-hash": "849953423ea8c896b2012095f666970f",
     "packages": [
         {
             "name": "asm89/stack-cors",
@@ -885,12 +885,12 @@
             "source": {
                 "type": "git",
                 "url": "https://github.com/CuBoulder/tiamat-theme.git",
-                "reference": "b3b70f1b2e07160577491a3154253abc4f2428bb"
+                "reference": "b181328755ece678780f40c82021f17906b48ce1"
             },
             "dist": {
                 "type": "zip",
-                "url": "https://api.github.com/repos/CuBoulder/tiamat-theme/zipball/b3b70f1b2e07160577491a3154253abc4f2428bb",
-                "reference": "b3b70f1b2e07160577491a3154253abc4f2428bb",
+                "url": "https://api.github.com/repos/CuBoulder/tiamat-theme/zipball/b181328755ece678780f40c82021f17906b48ce1",
+                "reference": "b181328755ece678780f40c82021f17906b48ce1",
                 "shasum": ""
             },
             "default-branch": true,
@@ -904,7 +904,7 @@
                 "issues": "https://github.com/CuBoulder/tiamat-theme/issues",
                 "source": "https://github.com/CuBoulder/tiamat-theme/tree/main"
             },
-            "time": "2024-05-23T23:02:02+00:00"
+            "time": "2024-06-04T17:44:41+00:00"
         },
         {
             "name": "cu-boulder/boulder_profile",
@@ -912,12 +912,12 @@
             "source": {
                 "type": "git",
                 "url": "https://github.com/CuBoulder/tiamat10-profile.git",
-                "reference": "77d1316d37ccf50e7549c77e193cfa8ca3998370"
+                "reference": "d6f74c22429dc33d6c5c040c37433d536e7aec47"
             },
             "dist": {
                 "type": "zip",
-                "url": "https://api.github.com/repos/CuBoulder/tiamat10-profile/zipball/77d1316d37ccf50e7549c77e193cfa8ca3998370",
-                "reference": "77d1316d37ccf50e7549c77e193cfa8ca3998370",
+                "url": "https://api.github.com/repos/CuBoulder/tiamat10-profile/zipball/d6f74c22429dc33d6c5c040c37433d536e7aec47",
+                "reference": "d6f74c22429dc33d6c5c040c37433d536e7aec47",
                 "shasum": ""
             },
             "default-branch": true,
@@ -929,9 +929,9 @@
             "description": "Drupal 10 base install profile for CU Boulder",
             "support": {
                 "issues": "https://github.com/CuBoulder/tiamat10-profile/issues",
-                "source": "https://github.com/CuBoulder/tiamat10-profile/tree/main"
+                "source": "https://github.com/CuBoulder/tiamat10-profile/tree/20240604"
             },
-            "time": "2024-05-29T19:21:03+00:00"
+            "time": "2024-06-04T17:42:04+00:00"
         },
         {
             "name": "cu-boulder/express_admin",
@@ -1020,12 +1020,12 @@
             "source": {
                 "type": "git",
                 "url": "https://github.com/CuBoulder/ucb_bootstrap_layouts.git",
-                "reference": "0a242509ea313c77f8ba85b9f64da6f538b11734"
+                "reference": "984a97be2d7285d2ad20365183164b4e20d8feca"
             },
             "dist": {
                 "type": "zip",
-                "url": "https://api.github.com/repos/CuBoulder/ucb_bootstrap_layouts/zipball/0a242509ea313c77f8ba85b9f64da6f538b11734",
-                "reference": "0a242509ea313c77f8ba85b9f64da6f538b11734",
+                "url": "https://api.github.com/repos/CuBoulder/ucb_bootstrap_layouts/zipball/984a97be2d7285d2ad20365183164b4e20d8feca",
+                "reference": "984a97be2d7285d2ad20365183164b4e20d8feca",
                 "shasum": ""
             },
             "default-branch": true,
@@ -1037,9 +1037,9 @@
             "description": "Removes the default Drupal Layout Builder layouts and replaces them with bootstrap layouts",
             "support": {
                 "issues": "https://github.com/CuBoulder/ucb_bootstrap_layouts/issues",
-                "source": "https://github.com/CuBoulder/ucb_bootstrap_layouts/tree/20240513"
+                "source": "https://github.com/CuBoulder/ucb_bootstrap_layouts/tree/main"
             },
-            "time": "2024-05-13T20:24:23+00:00"
+            "time": "2024-06-04T18:54:28+00:00"
         },
         {
             "name": "cu-boulder/ucb_campus_news",
@@ -1074,12 +1074,12 @@
             "source": {
                 "type": "git",
                 "url": "https://github.com/CuBoulder/ucb_ckeditor_plugins.git",
-                "reference": "0c559b1e3f4668d4ebfb42af4d2203739e772899"
+                "reference": "704c1beaa5c2cab6580e3ac3f8147a61bbb861a2"
             },
             "dist": {
                 "type": "zip",
-                "url": "https://api.github.com/repos/CuBoulder/ucb_ckeditor_plugins/zipball/0c559b1e3f4668d4ebfb42af4d2203739e772899",
-                "reference": "0c559b1e3f4668d4ebfb42af4d2203739e772899",
+                "url": "https://api.github.com/repos/CuBoulder/ucb_ckeditor_plugins/zipball/704c1beaa5c2cab6580e3ac3f8147a61bbb861a2",
+                "reference": "704c1beaa5c2cab6580e3ac3f8147a61bbb861a2",
                 "shasum": ""
             },
             "default-branch": true,
@@ -1093,7 +1093,7 @@
                 "issues": "https://github.com/CuBoulder/ucb_ckeditor_plugins/issues",
                 "source": "https://github.com/CuBoulder/ucb_ckeditor_plugins/tree/main"
             },
-            "time": "2024-05-10T20:30:02+00:00"
+            "time": "2024-05-29T21:07:27+00:00"
         },
         {
             "name": "cu-boulder/ucb_custom_entities",
@@ -1101,12 +1101,12 @@
             "source": {
                 "type": "git",
                 "url": "https://github.com/CuBoulder/tiamat-custom-entities.git",
-                "reference": "7ff966a9333b5291a4ede6beef1cf1c7810434d4"
+                "reference": "c67cee7df9dffcaafad1aa1a06da0530364ab18f"
             },
             "dist": {
                 "type": "zip",
-                "url": "https://api.github.com/repos/CuBoulder/tiamat-custom-entities/zipball/7ff966a9333b5291a4ede6beef1cf1c7810434d4",
-                "reference": "7ff966a9333b5291a4ede6beef1cf1c7810434d4",
+                "url": "https://api.github.com/repos/CuBoulder/tiamat-custom-entities/zipball/c67cee7df9dffcaafad1aa1a06da0530364ab18f",
+                "reference": "c67cee7df9dffcaafad1aa1a06da0530364ab18f",
                 "shasum": ""
             },
             "default-branch": true,
@@ -1120,7 +1120,7 @@
                 "issues": "https://github.com/CuBoulder/tiamat-custom-entities/issues",
                 "source": "https://github.com/CuBoulder/tiamat-custom-entities/tree/main"
             },
-            "time": "2024-05-28T14:44:17+00:00"
+            "time": "2024-06-04T17:46:19+00:00"
         },
         {
             "name": "cu-boulder/ucb_default_content",
@@ -1182,12 +1182,12 @@
             "source": {
                 "type": "git",
                 "url": "https://github.com/CuBoulder/ucb_migration_shortcodes.git",
-                "reference": "102768db35344ac970fff149e72b194da8f8a374"
+                "reference": "e775e0942f6cd08d70255e0f027b44218e7e987e"
             },
             "dist": {
                 "type": "zip",
-                "url": "https://api.github.com/repos/CuBoulder/ucb_migration_shortcodes/zipball/102768db35344ac970fff149e72b194da8f8a374",
-                "reference": "102768db35344ac970fff149e72b194da8f8a374",
+                "url": "https://api.github.com/repos/CuBoulder/ucb_migration_shortcodes/zipball/e775e0942f6cd08d70255e0f027b44218e7e987e",
+                "reference": "e775e0942f6cd08d70255e0f027b44218e7e987e",
                 "shasum": ""
             },
             "default-branch": true,
@@ -1201,7 +1201,7 @@
                 "issues": "https://github.com/CuBoulder/ucb_migration_shortcodes/issues",
                 "source": "https://github.com/CuBoulder/ucb_migration_shortcodes/tree/main"
             },
-            "time": "2024-05-10T20:24:06+00:00"
+            "time": "2024-06-04T18:05:24+00:00"
         },
         {
             "name": "cu-boulder/ucb_person_title",
@@ -2255,12 +2255,92 @@
             }
         },
         {
+            "name": "drupal/captcha",
+            "version": "2.0.5",
+            "source": {
+                "type": "git",
+                "url": "https://git.drupalcode.org/project/captcha.git",
+                "reference": "2.0.5"
+            },
+            "dist": {
+                "type": "zip",
+                "url": "https://ftp.drupal.org/files/projects/captcha-2.0.5.zip",
+                "reference": "2.0.5",
+                "shasum": "0c39d27a99b53f6517ef25ceef1ac5e333964547"
+            },
+            "require": {
+                "drupal/core": ">=9.4 <11"
+            },
+            "type": "drupal-module",
+            "extra": {
+                "drupal": {
+                    "version": "2.0.5",
+                    "datestamp": "1691598525",
+                    "security-coverage": {
+                        "status": "covered",
+                        "message": "Covered by Drupal's security advisory policy"
+                    }
+                },
+                "branch-alias": {
+                    "dev-8.x-1.x": "1.x-dev"
+                }
+            },
+            "notification-url": "https://packages.drupal.org/8/downloads",
+            "license": [
+                "GPL-2.0-or-later"
+            ],
+            "authors": [
+                {
+                    "name": "Anybody",
+                    "homepage": "https://www.drupal.org/user/291091"
+                },
+                {
+                    "name": "elachlan",
+                    "homepage": "https://www.drupal.org/user/1021502"
+                },
+                {
+                    "name": "Grevil",
+                    "homepage": "https://www.drupal.org/user/3668491"
+                },
+                {
+                    "name": "japerry",
+                    "homepage": "https://www.drupal.org/user/45640"
+                },
+                {
+                    "name": "naveenvalecha",
+                    "homepage": "https://www.drupal.org/user/2665733"
+                },
+                {
+                    "name": "podarok",
+                    "homepage": "https://www.drupal.org/user/116002"
+                },
+                {
+                    "name": "RobLoach",
+                    "homepage": "https://www.drupal.org/user/61114"
+                },
+                {
+                    "name": "thomas.frobieter",
+                    "homepage": "https://www.drupal.org/user/409335"
+                },
+                {
+                    "name": "wundo",
+                    "homepage": "https://www.drupal.org/user/25523"
+                }
+            ],
+            "description": "The CAPTCHA module provides this feature to virtually any user facing web form on a Drupal site.",
+            "homepage": "https://www.drupal.org/project/captcha",
+            "support": {
+                "source": "https://git.drupalcode.org/project/captcha",
+                "issues": "https://www.drupal.org/project/issues/captcha"
+            }
+        },
+        {
             "name": "drupal/ckeditor5_icons",
             "version": "dev-1.x",
             "source": {
                 "type": "git",
                 "url": "https://git.drupalcode.org/project/ckeditor5_icons.git",
-                "reference": "05bd5274897b019b3753caec6d2f637b6ed02e0a"
+                "reference": "a64dfc5ce0b7ce8a2f68e37d1326a442a0ebf097"
             },
             "require": {
                 "drupal/core": "^9.5 || ^10 || ^11"
@@ -2271,8 +2351,8 @@
                     "dev-1.x": "1.x-dev"
                 },
                 "drupal": {
-                    "version": "1.0.0+2-dev",
-                    "datestamp": "1716482442",
+                    "version": "1.0.0+3-dev",
+                    "datestamp": "1717454546",
                     "security-coverage": {
                         "status": "not-covered",
                         "message": "Dev releases are not covered by Drupal security advisories."
@@ -3699,17 +3779,17 @@
         },
         {
             "name": "drupal/jsonapi_extras",
-            "version": "3.24.0",
+            "version": "3.25.0",
             "source": {
                 "type": "git",
                 "url": "https://git.drupalcode.org/project/jsonapi_extras.git",
-                "reference": "8.x-3.24"
+                "reference": "8.x-3.25"
             },
             "dist": {
                 "type": "zip",
-                "url": "https://ftp.drupal.org/files/projects/jsonapi_extras-8.x-3.24.zip",
-                "reference": "8.x-3.24",
-                "shasum": "5031650d17b62f5da5586d3a2c551ac071dbd294"
+                "url": "https://ftp.drupal.org/files/projects/jsonapi_extras-8.x-3.25.zip",
+                "reference": "8.x-3.25",
+                "shasum": "ba557127ca560dbf3fae68f76c7720137857f167"
             },
             "require": {
                 "drupal/core": "^9.2 || ^10",
@@ -3718,8 +3798,8 @@
             "type": "drupal-module",
             "extra": {
                 "drupal": {
-                    "version": "8.x-3.24",
-                    "datestamp": "1694442796",
+                    "version": "8.x-3.25",
+                    "datestamp": "1717340217",
                     "security-coverage": {
                         "status": "covered",
                         "message": "Covered by Drupal's security advisory policy"
@@ -4641,6 +4721,60 @@
                 "source": "https://cgit.drupalcode.org/pathauto",
                 "issues": "https://www.drupal.org/project/issues/pathauto",
                 "documentation": "https://www.drupal.org/docs/8/modules/pathauto"
+            }
+        },
+        {
+            "name": "drupal/recaptcha_v3",
+            "version": "2.0.2",
+            "source": {
+                "type": "git",
+                "url": "https://git.drupalcode.org/project/recaptcha_v3.git",
+                "reference": "2.0.2"
+            },
+            "dist": {
+                "type": "zip",
+                "url": "https://ftp.drupal.org/files/projects/recaptcha_v3-2.0.2.zip",
+                "reference": "2.0.2",
+                "shasum": "239e04bdb74179997e422c13cd76cfaac68bdf00"
+            },
+            "require": {
+                "drupal/captcha": "^2.0",
+                "drupal/core": "^9.5 || ^10",
+                "google/recaptcha": "^1.3"
+            },
+            "type": "drupal-module",
+            "extra": {
+                "drupal": {
+                    "version": "2.0.2",
+                    "datestamp": "1692590086",
+                    "security-coverage": {
+                        "status": "covered",
+                        "message": "Covered by Drupal's security advisory policy"
+                    }
+                }
+            },
+            "notification-url": "https://packages.drupal.org/8/downloads",
+            "license": [
+                "GPL-2.0-or-later"
+            ],
+            "authors": [
+                {
+                    "name": "B-Prod",
+                    "homepage": "https://www.drupal.org/user/407852"
+                },
+                {
+                    "name": "dench0",
+                    "homepage": "https://www.drupal.org/user/896504"
+                },
+                {
+                    "name": "majid.ali",
+                    "homepage": "https://www.drupal.org/user/1271330"
+                }
+            ],
+            "description": "The reCaptcha V3 module provides integration with Google reCaptcha V3 and CAPTCHA module.",
+            "homepage": "https://www.drupal.org/project/recaptcha_v3",
+            "support": {
+                "source": "https://git.drupalcode.org/project/recaptcha_v3"
             }
         },
         {
@@ -5811,6 +5945,58 @@
                 }
             ],
             "time": "2023-11-06T15:42:03+00:00"
+        },
+        {
+            "name": "google/recaptcha",
+            "version": "1.3.0",
+            "source": {
+                "type": "git",
+                "url": "https://github.com/google/recaptcha.git",
+                "reference": "d59a801e98a4e9174814a6d71bbc268dff1202df"
+            },
+            "dist": {
+                "type": "zip",
+                "url": "https://api.github.com/repos/google/recaptcha/zipball/d59a801e98a4e9174814a6d71bbc268dff1202df",
+                "reference": "d59a801e98a4e9174814a6d71bbc268dff1202df",
+                "shasum": ""
+            },
+            "require": {
+                "php": ">=8"
+            },
+            "require-dev": {
+                "friendsofphp/php-cs-fixer": "^3.14",
+                "php-coveralls/php-coveralls": "^2.5",
+                "phpunit/phpunit": "^10"
+            },
+            "type": "library",
+            "extra": {
+                "branch-alias": {
+                    "dev-master": "1.3.x-dev"
+                }
+            },
+            "autoload": {
+                "psr-4": {
+                    "ReCaptcha\\": "src/ReCaptcha"
+                }
+            },
+            "notification-url": "https://packagist.org/downloads/",
+            "license": [
+                "BSD-3-Clause"
+            ],
+            "description": "Client library for reCAPTCHA, a free service that protects websites from spam and abuse.",
+            "homepage": "https://www.google.com/recaptcha/",
+            "keywords": [
+                "Abuse",
+                "captcha",
+                "recaptcha",
+                "spam"
+            ],
+            "support": {
+                "forum": "https://groups.google.com/forum/#!forum/recaptcha",
+                "issues": "https://github.com/google/recaptcha/issues",
+                "source": "https://github.com/google/recaptcha"
+            },
+            "time": "2023-02-18T17:41:46+00:00"
         },
         {
             "name": "grasmash/expander",
@@ -11358,16 +11544,16 @@
         },
         {
             "name": "symfony/twig-bridge",
-            "version": "v6.4.7",
+            "version": "v6.4.8",
             "source": {
                 "type": "git",
                 "url": "https://github.com/symfony/twig-bridge.git",
-                "reference": "544e47a4f2d4a786abd65531d2c326fb6e53da72"
+                "reference": "57de1b7d7499053a2c5beb9344751e8bfd332649"
             },
             "dist": {
                 "type": "zip",
-                "url": "https://api.github.com/repos/symfony/twig-bridge/zipball/544e47a4f2d4a786abd65531d2c326fb6e53da72",
-                "reference": "544e47a4f2d4a786abd65531d2c326fb6e53da72",
+                "url": "https://api.github.com/repos/symfony/twig-bridge/zipball/57de1b7d7499053a2c5beb9344751e8bfd332649",
+                "reference": "57de1b7d7499053a2c5beb9344751e8bfd332649",
                 "shasum": ""
             },
             "require": {
@@ -11447,7 +11633,7 @@
             "description": "Provides integration for Twig with various Symfony components",
             "homepage": "https://symfony.com",
             "support": {
-                "source": "https://github.com/symfony/twig-bridge/tree/v6.4.7"
+                "source": "https://github.com/symfony/twig-bridge/tree/v6.4.8"
             },
             "funding": [
                 {
@@ -11463,7 +11649,7 @@
                     "type": "tidelift"
                 }
             ],
-            "time": "2024-04-18T09:22:46+00:00"
+            "time": "2024-05-31T14:49:08+00:00"
         },
         {
             "name": "symfony/validator",
