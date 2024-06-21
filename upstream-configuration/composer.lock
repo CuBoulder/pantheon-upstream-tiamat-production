@@ -4,7 +4,7 @@
         "Read more about it at https://getcomposer.org/doc/01-basic-usage.md#installing-dependencies",
         "This file is @generated automatically"
     ],
-    "content-hash": "61c6d51c8c969916b8da5e73480f13c4",
+    "content-hash": "ec7475db7896d53ebbf2f6de794c8663",
     "packages": [
         {
             "name": "asm89/stack-cors",
@@ -885,12 +885,12 @@
             "source": {
                 "type": "git",
                 "url": "https://github.com/CuBoulder/tiamat-theme.git",
-                "reference": "eabef2cbeb12315b5d3c1fb1c13dfc25214b4d2b"
+                "reference": "e75975a95a2c5266f1305990094c91d1e8c6ce8e"
             },
             "dist": {
                 "type": "zip",
-                "url": "https://api.github.com/repos/CuBoulder/tiamat-theme/zipball/eabef2cbeb12315b5d3c1fb1c13dfc25214b4d2b",
-                "reference": "eabef2cbeb12315b5d3c1fb1c13dfc25214b4d2b",
+                "url": "https://api.github.com/repos/CuBoulder/tiamat-theme/zipball/e75975a95a2c5266f1305990094c91d1e8c6ce8e",
+                "reference": "e75975a95a2c5266f1305990094c91d1e8c6ce8e",
                 "shasum": ""
             },
             "default-branch": true,
@@ -904,7 +904,7 @@
                 "issues": "https://github.com/CuBoulder/tiamat-theme/issues",
                 "source": "https://github.com/CuBoulder/tiamat-theme/tree/main"
             },
-            "time": "2024-06-20T15:01:31+00:00"
+            "time": "2024-06-21T16:39:54+00:00"
         },
         {
             "name": "cu-boulder/boulder_profile",
@@ -1182,12 +1182,12 @@
             "source": {
                 "type": "git",
                 "url": "https://github.com/CuBoulder/ucb_migration_shortcodes.git",
-                "reference": "41ea3e055dccce91291e14f8a53ff0f86690323f"
+                "reference": "e7f0aacafd7b65e1e1af9ca3124c6e1c84b33f72"
             },
             "dist": {
                 "type": "zip",
-                "url": "https://api.github.com/repos/CuBoulder/ucb_migration_shortcodes/zipball/41ea3e055dccce91291e14f8a53ff0f86690323f",
-                "reference": "41ea3e055dccce91291e14f8a53ff0f86690323f",
+                "url": "https://api.github.com/repos/CuBoulder/ucb_migration_shortcodes/zipball/e7f0aacafd7b65e1e1af9ca3124c6e1c84b33f72",
+                "reference": "e7f0aacafd7b65e1e1af9ca3124c6e1c84b33f72",
                 "shasum": ""
             },
             "default-branch": true,
@@ -1201,7 +1201,7 @@
                 "issues": "https://github.com/CuBoulder/ucb_migration_shortcodes/issues",
                 "source": "https://github.com/CuBoulder/ucb_migration_shortcodes/tree/main"
             },
-            "time": "2024-06-20T21:24:06+00:00"
+            "time": "2024-06-21T17:49:34+00:00"
         },
         {
             "name": "cu-boulder/ucb_person_title",
@@ -1236,12 +1236,12 @@
             "source": {
                 "type": "git",
                 "url": "https://github.com/CuBoulder/ucb_site_configuration.git",
-                "reference": "9de888488e5bfdc6e8f75fd7da0b8fbec2a9efd3"
+                "reference": "89f9cedd3ee14422ea8afe3836b06dde55b3d9b8"
             },
             "dist": {
                 "type": "zip",
-                "url": "https://api.github.com/repos/CuBoulder/ucb_site_configuration/zipball/9de888488e5bfdc6e8f75fd7da0b8fbec2a9efd3",
-                "reference": "9de888488e5bfdc6e8f75fd7da0b8fbec2a9efd3",
+                "url": "https://api.github.com/repos/CuBoulder/ucb_site_configuration/zipball/89f9cedd3ee14422ea8afe3836b06dde55b3d9b8",
+                "reference": "89f9cedd3ee14422ea8afe3836b06dde55b3d9b8",
                 "shasum": ""
             },
             "default-branch": true,
@@ -1255,7 +1255,7 @@
                 "issues": "https://github.com/CuBoulder/ucb_site_configuration/issues",
                 "source": "https://github.com/CuBoulder/ucb_site_configuration/tree/main"
             },
-            "time": "2024-04-25T16:33:05+00:00"
+            "time": "2024-06-21T16:40:11+00:00"
         },
         {
             "name": "cu-boulder/ucb_third_party_libraries",
@@ -2336,26 +2336,29 @@
         },
         {
             "name": "drupal/ckeditor5_icons",
-            "version": "dev-1.x",
+            "version": "1.1.1",
             "source": {
                 "type": "git",
                 "url": "https://git.drupalcode.org/project/ckeditor5_icons.git",
-                "reference": "37be0fbaf7f5f1a3b2c622c61a374862ddf96e20"
+                "reference": "1.1.1"
+            },
+            "dist": {
+                "type": "zip",
+                "url": "https://ftp.drupal.org/files/projects/ckeditor5_icons-1.1.1.zip",
+                "reference": "1.1.1",
+                "shasum": "46dc83b83fa420ba6bd6b6ec2176b8fd809674a0"
             },
             "require": {
-                "drupal/core": "^9.5 || ^10 || ^11"
+                "drupal/core": "^9.5 || ^10"
             },
             "type": "drupal-module",
             "extra": {
-                "branch-alias": {
-                    "dev-1.x": "1.x-dev"
-                },
                 "drupal": {
-                    "version": "1.0.0+13-dev",
-                    "datestamp": "1718397269",
+                    "version": "1.1.1",
+                    "datestamp": "1718316051",
                     "security-coverage": {
-                        "status": "not-covered",
-                        "message": "Dev releases are not covered by Drupal security advisories."
+                        "status": "covered",
+                        "message": "Covered by Drupal's security advisory policy"
                     }
                 }
             },
@@ -12286,7 +12289,6 @@
         "cu-boulder/ucb_third_party_libraries": 20,
         "cu-boulder/ucb_user_invite": 20,
         "drupal/anchor_link": 15,
-        "drupal/ckeditor5_icons": 20,
         "drupal/google_cse": 15,
         "drupal/config_update": 15
     },
