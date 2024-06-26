@@ -139,16 +139,16 @@
         },
         {
             "name": "composer/installers",
-            "version": "v2.2.0",
+            "version": "v2.3.0",
             "source": {
                 "type": "git",
                 "url": "https://github.com/composer/installers.git",
-                "reference": "c29dc4b93137acb82734f672c37e029dfbd95b35"
+                "reference": "12fb2dfe5e16183de69e784a7b84046c43d97e8e"
             },
             "dist": {
                 "type": "zip",
-                "url": "https://api.github.com/repos/composer/installers/zipball/c29dc4b93137acb82734f672c37e029dfbd95b35",
-                "reference": "c29dc4b93137acb82734f672c37e029dfbd95b35",
+                "url": "https://api.github.com/repos/composer/installers/zipball/12fb2dfe5e16183de69e784a7b84046c43d97e8e",
+                "reference": "12fb2dfe5e16183de69e784a7b84046c43d97e8e",
                 "shasum": ""
             },
             "require": {
@@ -156,12 +156,12 @@
                 "php": "^7.2 || ^8.0"
             },
             "require-dev": {
-                "composer/composer": "1.6.* || ^2.0",
-                "composer/semver": "^1 || ^3",
-                "phpstan/phpstan": "^0.12.55",
-                "phpstan/phpstan-phpunit": "^0.12.16",
-                "symfony/phpunit-bridge": "^5.3",
-                "symfony/process": "^5"
+                "composer/composer": "^1.10.27 || ^2.7",
+                "composer/semver": "^1.7.2 || ^3.4.0",
+                "phpstan/phpstan": "^1.11",
+                "phpstan/phpstan-phpunit": "^1",
+                "symfony/phpunit-bridge": "^7.1.1",
+                "symfony/process": "^5 || ^6 || ^7"
             },
             "type": "composer-plugin",
             "extra": {
@@ -218,6 +218,7 @@
                 "cockpit",
                 "codeigniter",
                 "concrete5",
+                "concreteCMS",
                 "croogo",
                 "dokuwiki",
                 "drupal",
@@ -264,7 +265,7 @@
             ],
             "support": {
                 "issues": "https://github.com/composer/installers/issues",
-                "source": "https://github.com/composer/installers/tree/v2.2.0"
+                "source": "https://github.com/composer/installers/tree/v2.3.0"
             },
             "funding": [
                 {
@@ -280,7 +281,7 @@
                     "type": "tidelift"
                 }
             ],
-            "time": "2022-08-20T06:45:11+00:00"
+            "time": "2024-06-24T20:46:46+00:00"
         },
         {
             "name": "composer/semver",
@@ -885,12 +886,12 @@
             "source": {
                 "type": "git",
                 "url": "https://github.com/CuBoulder/tiamat-theme.git",
-                "reference": "e75975a95a2c5266f1305990094c91d1e8c6ce8e"
+                "reference": "b0bb87fdc96cdfb09959e7d281040d4bc1c8c3bb"
             },
             "dist": {
                 "type": "zip",
-                "url": "https://api.github.com/repos/CuBoulder/tiamat-theme/zipball/e75975a95a2c5266f1305990094c91d1e8c6ce8e",
-                "reference": "e75975a95a2c5266f1305990094c91d1e8c6ce8e",
+                "url": "https://api.github.com/repos/CuBoulder/tiamat-theme/zipball/b0bb87fdc96cdfb09959e7d281040d4bc1c8c3bb",
+                "reference": "b0bb87fdc96cdfb09959e7d281040d4bc1c8c3bb",
                 "shasum": ""
             },
             "default-branch": true,
@@ -904,7 +905,7 @@
                 "issues": "https://github.com/CuBoulder/tiamat-theme/issues",
                 "source": "https://github.com/CuBoulder/tiamat-theme/tree/main"
             },
-            "time": "2024-06-21T16:39:54+00:00"
+            "time": "2024-06-25T14:53:30+00:00"
         },
         {
             "name": "cu-boulder/boulder_profile",
@@ -912,12 +913,12 @@
             "source": {
                 "type": "git",
                 "url": "https://github.com/CuBoulder/tiamat10-profile.git",
-                "reference": "062b75a6fb495f647f576d7eb466cf00e267ec4f"
+                "reference": "e02470dc5a43a0e6913e7c4f5f76eafc11fe21cb"
             },
             "dist": {
                 "type": "zip",
-                "url": "https://api.github.com/repos/CuBoulder/tiamat10-profile/zipball/062b75a6fb495f647f576d7eb466cf00e267ec4f",
-                "reference": "062b75a6fb495f647f576d7eb466cf00e267ec4f",
+                "url": "https://api.github.com/repos/CuBoulder/tiamat10-profile/zipball/e02470dc5a43a0e6913e7c4f5f76eafc11fe21cb",
+                "reference": "e02470dc5a43a0e6913e7c4f5f76eafc11fe21cb",
                 "shasum": ""
             },
             "default-branch": true,
@@ -931,7 +932,7 @@
                 "issues": "https://github.com/CuBoulder/tiamat10-profile/issues",
                 "source": "https://github.com/CuBoulder/tiamat10-profile/tree/main"
             },
-            "time": "2024-06-20T15:02:07+00:00"
+            "time": "2024-06-25T22:51:40+00:00"
         },
         {
             "name": "cu-boulder/express_admin",
@@ -1074,12 +1075,12 @@
             "source": {
                 "type": "git",
                 "url": "https://github.com/CuBoulder/ucb_ckeditor_plugins.git",
-                "reference": "da663fba67ee30a2d423b1fdb211563a8915ae63"
+                "reference": "1ffb4d84599ea463670ff95257d3178b312984ba"
             },
             "dist": {
                 "type": "zip",
-                "url": "https://api.github.com/repos/CuBoulder/ucb_ckeditor_plugins/zipball/da663fba67ee30a2d423b1fdb211563a8915ae63",
-                "reference": "da663fba67ee30a2d423b1fdb211563a8915ae63",
+                "url": "https://api.github.com/repos/CuBoulder/ucb_ckeditor_plugins/zipball/1ffb4d84599ea463670ff95257d3178b312984ba",
+                "reference": "1ffb4d84599ea463670ff95257d3178b312984ba",
                 "shasum": ""
             },
             "default-branch": true,
@@ -1093,7 +1094,7 @@
                 "issues": "https://github.com/CuBoulder/ucb_ckeditor_plugins/issues",
                 "source": "https://github.com/CuBoulder/ucb_ckeditor_plugins/tree/main"
             },
-            "time": "2024-06-20T16:56:47+00:00"
+            "time": "2024-06-25T22:34:18+00:00"
         },
         {
             "name": "cu-boulder/ucb_custom_entities",
@@ -1182,12 +1183,12 @@
             "source": {
                 "type": "git",
                 "url": "https://github.com/CuBoulder/ucb_migration_shortcodes.git",
-                "reference": "e7f0aacafd7b65e1e1af9ca3124c6e1c84b33f72"
+                "reference": "9635eac10952795e82481cc5e94ca38a131d9d87"
             },
             "dist": {
                 "type": "zip",
-                "url": "https://api.github.com/repos/CuBoulder/ucb_migration_shortcodes/zipball/e7f0aacafd7b65e1e1af9ca3124c6e1c84b33f72",
-                "reference": "e7f0aacafd7b65e1e1af9ca3124c6e1c84b33f72",
+                "url": "https://api.github.com/repos/CuBoulder/ucb_migration_shortcodes/zipball/9635eac10952795e82481cc5e94ca38a131d9d87",
+                "reference": "9635eac10952795e82481cc5e94ca38a131d9d87",
                 "shasum": ""
             },
             "default-branch": true,
@@ -1201,7 +1202,7 @@
                 "issues": "https://github.com/CuBoulder/ucb_migration_shortcodes/issues",
                 "source": "https://github.com/CuBoulder/ucb_migration_shortcodes/tree/main"
             },
-            "time": "2024-06-21T17:49:34+00:00"
+            "time": "2024-06-26T15:18:13+00:00"
         },
         {
             "name": "cu-boulder/ucb_person_title",
@@ -5195,20 +5196,20 @@
         },
         {
             "name": "drupal/smtp",
-            "version": "1.2.0",
+            "version": "1.3.0",
             "source": {
                 "type": "git",
                 "url": "https://git.drupalcode.org/project/smtp.git",
-                "reference": "8.x-1.2"
+                "reference": "8.x-1.3"
             },
             "dist": {
                 "type": "zip",
-                "url": "https://ftp.drupal.org/files/projects/smtp-8.x-1.2.zip",
-                "reference": "8.x-1.2",
-                "shasum": "10d302d4a90521d674bdd078da8aed886fa5ec41"
+                "url": "https://ftp.drupal.org/files/projects/smtp-8.x-1.3.zip",
+                "reference": "8.x-1.3",
+                "shasum": "10c766f0a3ce588dc27d6ac2b21255a807be81d8"
             },
             "require": {
-                "drupal/core": ">=8.9 <11",
+                "drupal/core": "^10.1 || ^11",
                 "phpmailer/phpmailer": "^6.1.7"
             },
             "suggest": {
@@ -5217,8 +5218,8 @@
             "type": "drupal-module",
             "extra": {
                 "drupal": {
-                    "version": "8.x-1.2",
-                    "datestamp": "1667416337",
+                    "version": "8.x-1.3",
+                    "datestamp": "1719260754",
                     "security-coverage": {
                         "status": "covered",
                         "message": "Covered by Drupal's security advisory policy"
@@ -5240,10 +5241,6 @@
                 {
                     "name": "joseph.olstad",
                     "homepage": "https://www.drupal.org/user/1321830"
-                },
-                {
-                    "name": "josesanmartin",
-                    "homepage": "https://www.drupal.org/user/72012"
                 },
                 {
                     "name": "LukeLast",
@@ -5405,17 +5402,17 @@
         },
         {
             "name": "drupal/webform",
-            "version": "6.2.2",
+            "version": "6.2.3",
             "source": {
                 "type": "git",
                 "url": "https://git.drupalcode.org/project/webform.git",
-                "reference": "6.2.2"
+                "reference": "6.2.3"
             },
             "dist": {
                 "type": "zip",
-                "url": "https://ftp.drupal.org/files/projects/webform-6.2.2.zip",
-                "reference": "6.2.2",
-                "shasum": "cfd766802232dfdf39edd5a1acf7c738d14dc6eb"
+                "url": "https://ftp.drupal.org/files/projects/webform-6.2.3.zip",
+                "reference": "6.2.3",
+                "shasum": "b23b2746643ef11ee764ac420a02e2162d727930"
             },
             "require": {
                 "drupal/core": "^9.4 || ^10",
@@ -5464,8 +5461,8 @@
             "type": "drupal-module",
             "extra": {
                 "drupal": {
-                    "version": "6.2.2",
-                    "datestamp": "1701948363",
+                    "version": "6.2.3",
+                    "datestamp": "1719330022",
                     "security-coverage": {
                         "status": "covered",
                         "message": "Covered by Drupal's security advisory policy"
