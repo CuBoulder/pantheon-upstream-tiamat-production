@@ -886,12 +886,12 @@
             "source": {
                 "type": "git",
                 "url": "https://github.com/CuBoulder/tiamat-theme.git",
-                "reference": "b0bb87fdc96cdfb09959e7d281040d4bc1c8c3bb"
+                "reference": "5127cd049f617d6e830775be570336d17daae4ad"
             },
             "dist": {
                 "type": "zip",
-                "url": "https://api.github.com/repos/CuBoulder/tiamat-theme/zipball/b0bb87fdc96cdfb09959e7d281040d4bc1c8c3bb",
-                "reference": "b0bb87fdc96cdfb09959e7d281040d4bc1c8c3bb",
+                "url": "https://api.github.com/repos/CuBoulder/tiamat-theme/zipball/5127cd049f617d6e830775be570336d17daae4ad",
+                "reference": "5127cd049f617d6e830775be570336d17daae4ad",
                 "shasum": ""
             },
             "default-branch": true,
@@ -905,7 +905,7 @@
                 "issues": "https://github.com/CuBoulder/tiamat-theme/issues",
                 "source": "https://github.com/CuBoulder/tiamat-theme/tree/main"
             },
-            "time": "2024-06-25T14:53:30+00:00"
+            "time": "2024-06-26T22:31:22+00:00"
         },
         {
             "name": "cu-boulder/boulder_profile",
@@ -1183,12 +1183,12 @@
             "source": {
                 "type": "git",
                 "url": "https://github.com/CuBoulder/ucb_migration_shortcodes.git",
-                "reference": "9635eac10952795e82481cc5e94ca38a131d9d87"
+                "reference": "5b6ac5c3b2a39ef005a0cab98eabc668f98b1ff7"
             },
             "dist": {
                 "type": "zip",
-                "url": "https://api.github.com/repos/CuBoulder/ucb_migration_shortcodes/zipball/9635eac10952795e82481cc5e94ca38a131d9d87",
-                "reference": "9635eac10952795e82481cc5e94ca38a131d9d87",
+                "url": "https://api.github.com/repos/CuBoulder/ucb_migration_shortcodes/zipball/5b6ac5c3b2a39ef005a0cab98eabc668f98b1ff7",
+                "reference": "5b6ac5c3b2a39ef005a0cab98eabc668f98b1ff7",
                 "shasum": ""
             },
             "default-branch": true,
@@ -1202,7 +1202,7 @@
                 "issues": "https://github.com/CuBoulder/ucb_migration_shortcodes/issues",
                 "source": "https://github.com/CuBoulder/ucb_migration_shortcodes/tree/main"
             },
-            "time": "2024-06-26T15:18:13+00:00"
+            "time": "2024-06-26T22:31:47+00:00"
         },
         {
             "name": "cu-boulder/ucb_person_title",
@@ -1237,12 +1237,12 @@
             "source": {
                 "type": "git",
                 "url": "https://github.com/CuBoulder/ucb_site_configuration.git",
-                "reference": "89f9cedd3ee14422ea8afe3836b06dde55b3d9b8"
+                "reference": "1d118ecaa16317775f48d056a6712f62c348d68c"
             },
             "dist": {
                 "type": "zip",
-                "url": "https://api.github.com/repos/CuBoulder/ucb_site_configuration/zipball/89f9cedd3ee14422ea8afe3836b06dde55b3d9b8",
-                "reference": "89f9cedd3ee14422ea8afe3836b06dde55b3d9b8",
+                "url": "https://api.github.com/repos/CuBoulder/ucb_site_configuration/zipball/1d118ecaa16317775f48d056a6712f62c348d68c",
+                "reference": "1d118ecaa16317775f48d056a6712f62c348d68c",
                 "shasum": ""
             },
             "default-branch": true,
@@ -1256,7 +1256,7 @@
                 "issues": "https://github.com/CuBoulder/ucb_site_configuration/issues",
                 "source": "https://github.com/CuBoulder/ucb_site_configuration/tree/main"
             },
-            "time": "2024-06-21T16:40:11+00:00"
+            "time": "2024-06-27T17:39:31+00:00"
         },
         {
             "name": "cu-boulder/ucb_third_party_libraries",
@@ -5462,7 +5462,7 @@
             "extra": {
                 "drupal": {
                     "version": "6.2.3",
-                    "datestamp": "1719330022",
+                    "datestamp": "1719431562",
                     "security-coverage": {
                         "status": "covered",
                         "message": "Covered by Drupal's security advisory policy"
