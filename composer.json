@@ -29,6 +29,12 @@
     },
     "minimum-stability": "dev",
     "prefer-stable": true,
+    "autoload": {
+        "psr-4": {
+            "Drupal\\ckeditor5_bootstrap_accordion\\": "web/modules/custom/ckeditor5_bootstrap_accordion/src/",
+            "Drupal\\ckeditor5_icons\\": "web/modules/custom/ckeditor5_icons/src/"
+        }
+    },
     "extra": {
         "drupal-scaffold": {
             "locations": {
@@ -86,6 +92,7 @@
         "enable-patching": true
     },
     "config": {
+        "optimize-autoloader": true,
         "preferred-install": "dist",
         "sort-packages": true,
         "platform": {
@@ -114,7 +121,8 @@
             "rm -rf vendor/simplesamlphp/simplesamlphp/cert",
             "ln -sf ../../../private/metadata vendor/simplesamlphp/simplesamlphp/metadata",
             "ln -sf ../../../private/config vendor/simplesamlphp/simplesamlphp/config",
-            "ln -sf ../../../private/cert vendor/simplesamlphp/simplesamlphp/cert"
+            "ln -sf ../../../private/cert vendor/simplesamlphp/simplesamlphp/cert",
+            "composer dump-autoload -o"
         ],
         "post-install-cmd": [
             "rm -rf vendor/simplesamlphp/simplesamlphp/metadata",
@@ -122,7 +130,8 @@
             "rm -rf vendor/simplesamlphp/simplesamlphp/cert",
             "ln -sf ../../../private/metadata vendor/simplesamlphp/simplesamlphp/metadata",
             "ln -sf ../../../private/config vendor/simplesamlphp/simplesamlphp/config",
-            "ln -sf ../../../private/cert vendor/simplesamlphp/simplesamlphp/cert"
+            "ln -sf ../../../private/cert vendor/simplesamlphp/simplesamlphp/cert",
+            "composer dump-autoload -o"
         ]
     }
 }
